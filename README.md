@@ -46,11 +46,11 @@ Requires Python 3.10+.
 ```bash
 cd poam_tracker_final
 
-# optional: sanity check links + evidence references
+# optional: check links + evidence references
 python tools/check_repo.py
 
 # generate exports from the sample dataset (current month by default)
 python tools/generate_exports.py --in sample-data/findings.sample.csv --out exports
 
-# deterministic output (useful for screenshots / consistency)
+# output (useful for screenshots / consistency)
 python tools/generate_exports.py --in sample-data/findings.sample.csv --out exports --month 2026-02 --today 2026-02-13
