@@ -1,4 +1,3 @@
-# Minimal dependencies (CLI uses stdlib only)
-# Optional UI:
-pandas
-streamlit
+# Optional dependencies for the Streamlit demo UI
+pandas>=2.0
+streamlit>=1.30
