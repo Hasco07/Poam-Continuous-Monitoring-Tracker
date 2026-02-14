@@ -23,7 +23,7 @@ This repo is designed to be **reviewer-friendly**. You can understand the workfl
 4) Clickable evidence stubs: [Clickable Evidence Stubs](poam_tracker_final/evidence/)  
 5) Workflow overview: [Workflow Overview](poam_tracker_final/docs/workflow.md)  
 6) Export schema: [Export Schema](poam_tracker_final/docs/exports/export-schema.md)  
-7) Monthly report format: [Monthly Report Format](poam_tracker_final/docs/reporting/monthly-report-format.md)  
+7) Monthly report format: [Monthly Report Format](../poam_tracker_final/docs/reporting/monthly-report-format.md)  
 
 Optional (demo UI): [Demo UI](poam_tracker_final/app/streamlit_app.py)
 
