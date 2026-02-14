@@ -17,7 +17,7 @@ This repo is designed to be **reviewer-friendly**. You can understand the workfl
 - Evidence discipline: consistent IDs, timestamps, exportable outputs
 
 ### What to review first (5–10 minutes)
-1) Sample POA&M export (CSV): [Sample POA&M Export](poam_tracker_final/exports/poam_export.sample.csv)  
+1) Sample POA&M export (CSV): [Sample POA&M Export](../poam_tracker_final/exports/poam_export.sample.csv)  
 2) Sample monthly status report (Markdown): [Sample Monthly Status Report](poam_tracker_final/exports/monthly_status_report.sample.md)  
 3) Sample dataset (fictional findings): [Sample Dataset (Fictional Findings)](poam_tracker_final/sample-data/findings.sample.csv)  
 4) Clickable evidence stubs: [Clickable Evidence Stubs](poam_tracker_final/evidence/)  
