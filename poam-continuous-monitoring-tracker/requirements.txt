@@ -1,4 +1,0 @@
-# Minimal dependencies (CLI uses stdlib only)
-# Optional UI:
-pandas
-streamlit
