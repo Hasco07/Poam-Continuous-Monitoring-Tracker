@@ -12,19 +12,20 @@ This repo is designed to be **reviewer-friendly**. You can understand the workfl
 ## For Hiring Managers
 
 ### What this demonstrates
-- Practical POA&M mechanics: ownership, deadlines, milestones, aging, and accountability
+- Practical POA&M mechanics: ownership, due dates, milestones, aging, and accountability
 - Continuous monitoring reporting: turning raw findings into leadership-ready summaries
-- Evidence discipline: consistent IDs, timestamps, exportable artifacts
+- Evidence discipline: consistent IDs, timestamps, exportable outputs
 
 ### What to review first (5–10 minutes)
-1) Sample POA&M export (CSV): [`exports/poam_export.sample.csv`](exports/poam_export.sample.csv)  
-2) Sample monthly status report (Markdown): [`exports/monthly_status_report.sample.md`](exports/monthly_status_report.sample.md)  
-3) Sample dataset (fictional findings): [`sample-data/findings.sample.csv`](sample-data/findings.sample.csv)  
-4) Clickable evidence stubs: [`evidence/`](evidence/)  
-5) Workflow overview: [`docs/workflow.md`](docs/workflow.md)  
-6) Export schema: [`docs/exports/export-schema.md`](docs/exports/export-schema.md)  
+1) Sample POA&M export (CSV): [Sample POA&M Export](poam_tracker_final/exports/poam_export.sample.csv)  
+2) Sample monthly status report (Markdown): [Sample Monthly Status Report](poam_tracker_final/exports/monthly_status_report.sample.md)  
+3) Sample dataset (fictional findings): [Sample Dataset (Fictional Findings)](poam_tracker_final/sample-data/findings.sample.csv)  
+4) Clickable evidence stubs: [Clickable Evidence Stubs](poam_tracker_final/evidence/)  
+5) Workflow overview: [Workflow Overview](poam_tracker_final/docs/workflow.md)  
+6) Export schema: [Export Schema](poam_tracker_final/docs/exports/export-schema.md)  
+7) Monthly report format: [Monthly Report Format](poam_tracker_final/docs/reporting/monthly-report-format.md)  
 
-Optional (demo UI): [`app/streamlit_app.py`](app/streamlit_app.py)
+Optional (demo UI): [Demo UI](poam_tracker_final/app/streamlit_app.py)
 
 ---
 
