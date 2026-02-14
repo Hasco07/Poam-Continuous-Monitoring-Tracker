@@ -2,8 +2,8 @@
 
 The monthly report is meant to be readable by:
 - ISSM/ISSO leadership
-- system owners / engineering leadership
-- assessors during inspection readiness reviews
+- Information System Owners (ISOs) / Engineering Leadership
+- Assessors during inspection readiness reviews
 
 ## Recommended sections
 1. Reporting period
