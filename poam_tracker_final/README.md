@@ -62,6 +62,7 @@ sample-data/                              Fictional findings dataset
 evidence/                                 Clickable stub evidence artifacts
 exports/                                  Sample outputs (static examples)
 tools/generate_exports.py                 CLI that generates POA&M export + monthly report
+tools/check_repo.py                       Link + evidence sanity checker
 docs/workflow.md                          Workflow overview
 docs/exports/export-schema.md             Definition of export columns
 docs/reporting/monthly-report-format.md   Reporting format and intent
