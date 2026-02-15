@@ -32,11 +32,11 @@
 
 | POA&M | Finding | Severity | Risk | Days overdue | Owner | Due date | Evidence |
 |---|---|---|---:|---:|---|---|---|
-| POAM-001 | VULN-001 | High | 85 | 10 | Engineering Tools | 2026-02-03 | [patch-compliance-summary_2026-02-01.md](../evidence/patching/patch-compliance-summary_2026-02-01.md) |
-| POAM-002 | VULN-002 | High | 80 | 5 | Engineering Tools | 2026-02-08 | [log-forwarding-config_2026-01-28.md](../evidence/logging/log-forwarding-config_2026-01-28.md) |
-| POAM-007 | VULN-007 | High | 78 | 2 | Integration Team | 2026-02-11 | [service-account-rotation_2026-02-10.md](../evidence/auth/service-account-rotation_2026-02-10.md) |
-| POAM-004 | MAN-004 | Medium | 60 | 3 | LAN Admins | 2026-02-10 | [log-review-checklist.md](../evidence/logging/log-review-checklist.md) |
-| POAM-009 | VULN-009 | Medium | 58 | 7 | Engineering Tools | 2026-02-06 | [change-ticket-example_2026-02-03.md](../evidence/change-control/change-ticket-example_2026-02-03.md) |
+| POAM-001 | VULN-001 | High | 85 | 10 | ISSO | 2026-02-03 | [patch-compliance-summary_2026-02-01.md](../evidence/patching/patch-compliance-summary_2026-02-01.md) |
+| POAM-002 | VULN-002 | High | 80 | 5 | ISSO | 2026-02-08 | [log-forwarding-config_2026-01-28.md](../evidence/logging/log-forwarding-config_2026-01-28.md) |
+| POAM-007 | VULN-007 | High | 78 | 2 | ISSO | 2026-02-11 | [service-account-rotation_2026-02-10.md](../evidence/auth/service-account-rotation_2026-02-10.md) |
+| POAM-004 | MAN-004 | Medium | 60 | 3 | ISSO | 2026-02-10 | [log-review-checklist.md](../evidence/logging/log-review-checklist.md) |
+| POAM-009 | VULN-009 | Medium | 58 | 7 | ISSO | 2026-02-06 | [change-ticket-example_2026-02-03.md](../evidence/change-control/change-ticket-example_2026-02-03.md) |
 
 ## Newly opened this period
 
