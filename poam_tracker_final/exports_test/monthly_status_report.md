@@ -31,11 +31,11 @@
 
 | POA&M | Finding | Severity | Risk | Days overdue | Owner | Due date |
 |---|---|---|---:|---:|---|---|
-| POAM-001 | VULN-001 | High | 85 | 10 | Engineering Tools | 2026-02-03 |
-| POAM-002 | VULN-002 | High | 80 | 5 | Engineering Tools | 2026-02-08 |
-| POAM-007 | VULN-007 | High | 78 | 2 | Integration Team | 2026-02-11 |
-| POAM-004 | MAN-004 | Medium | 60 | 3 | LAN Admins | 2026-02-10 |
-| POAM-009 | VULN-009 | Medium | 58 | 7 | Engineering Tools | 2026-02-06 |
+| POAM-001 | VULN-001 | High | 85 | 10 | ISSO | 2026-02-03 |
+| POAM-002 | VULN-002 | High | 80 | 5 | ISSO | 2026-02-08 |
+| POAM-007 | VULN-007 | High | 78 | 2 | ISSO | 2026-02-11 |
+| POAM-004 | MAN-004 | Medium | 60 | 3 | ISSO | 2026-02-10 |
+| POAM-009 | VULN-009 | Medium | 58 | 7 | ISSO | 2026-02-06 |
 
 ## Newly opened this period
 
