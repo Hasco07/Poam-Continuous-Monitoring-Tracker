@@ -15,7 +15,7 @@ This repo produces a **public-safe, fictional** POA&M-style export intended to d
 | `severity` | Critical/High/Medium/Low |
 | `risk_score` | Simple numeric risk score (fictional scale) |
 | `status` | Open / In Progress / Mitigated / Closed |
-| `owner` | Responsible role/team |
+| `owner` | Responsible role |
 | `discovered_date` | Date identified (YYYY-MM-DD) |
 | `due_date` | Scheduled completion date (YYYY-MM-DD) |
 | `days_open` | Age in days since discovered (for non-closed items) |
